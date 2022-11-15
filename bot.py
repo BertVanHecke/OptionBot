@@ -1,3 +1,8 @@
+"""
+Copyright (C) 2022 Bert Van Hecke - All Rights Reserved,
+You may not use or distribute this code without permission
+"""
+
 from datetime import datetime
 from ib_insync import *
 from apscheduler.schedulers.background import BackgroundScheduler
